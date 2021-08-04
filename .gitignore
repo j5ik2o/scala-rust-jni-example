@@ -10,7 +10,6 @@ project/target
 .cache-main
 .envrc
 bin/
-native
 *.pyc
 *.pem
 *.stackdump
