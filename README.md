@@ -1,0 +1,1 @@
+# scala-rust-jni-example
